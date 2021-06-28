@@ -1,0 +1,1 @@
+web: gunicorn goclubbing.wsgi --log-file -
